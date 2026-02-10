@@ -3,4 +3,4 @@
 to see the end result run 
 ````bash
 bun run build
-bun run dev:electron```
+bun run dev:electron
