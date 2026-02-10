@@ -1,0 +1,10 @@
+.stat-card{
+    color: var(--text-color);
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+
+.stat-card:hover{
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.3);
+}
